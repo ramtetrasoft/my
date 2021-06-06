@@ -1,0 +1,93 @@
+2021-06-06 00:14:51,859 - com.testng.extras.TestRunner -INFO - ExtentReports is initiated
+2021-06-06 00:14:51,965 - com.testng.extras.TestRunner -INFO - ATUTestRecorder is Started
+2021-06-06 00:14:59,942 - com.teastng.testUtil.Base -INFO - accessProperties function is executed
+2021-06-06 00:15:02,854 - com.teastng.testUtil.Base -INFO - openBrowser function is executed
+2021-06-06 00:15:32,804 - com.teastng.testUtil.Base -INFO - launchSite function is executed
+2021-06-06 00:15:33,127 - com.testng.pages.LoginPage -INFO - fillUserId function is executed
+2021-06-06 00:15:33,317 - com.testng.pages.LoginPage -INFO - fillPassword function is executed
+2021-06-06 00:15:34,300 - com.testng.pages.LoginPage -INFO - clicklogin function is executed
+2021-06-06 00:15:49,326 - com.testng.pages.LoginPage -INFO - validatelogin function is initiated
+2021-06-06 00:15:49,419 - com.testng.pages.LoginPage -INFO - validatelogin all_valid condition is executed
+2021-06-06 00:15:50,682 - com.testng.extras.TestRunner -INFO - Login Test is Passed
+2021-06-06 00:16:00,328 - com.testng.extras.TestRunner -INFO - ExtentReports is initiated
+2021-06-06 00:16:02,370 - com.testng.extras.TestRunner -INFO - ATUTestRecorder is Stoped
+2021-06-06 00:34:57,720 - com.testng.extras.TestRunner -INFO - ExtentReports is initiated
+2021-06-06 00:34:57,830 - com.testng.extras.TestRunner -INFO - ATUTestRecorder is Started
+2021-06-06 00:35:06,023 - com.teastng.testUtil.Base -INFO - accessProperties function is executed
+2021-06-06 00:35:09,653 - com.teastng.testUtil.Base -INFO - openBrowser function is executed
+2021-06-06 00:35:20,895 - com.teastng.testUtil.Base -INFO - launchSite function is executed
+2021-06-06 00:35:21,184 - com.testng.pages.LoginPage -INFO - fillUserId function is executed
+2021-06-06 00:35:21,344 - com.testng.pages.LoginPage -INFO - fillPassword function is executed
+2021-06-06 00:35:22,497 - com.testng.pages.LoginPage -INFO - clicklogin function is executed
+2021-06-06 00:35:37,523 - com.testng.pages.LoginPage -INFO - validatelogin function is initiated
+2021-06-06 00:35:37,610 - com.testng.pages.LoginPage -INFO - validatelogin all_valid condition is executed
+2021-06-06 00:35:39,673 - com.testng.extras.TestRunner -INFO - Login Test is Passed
+2021-06-06 00:35:55,405 - com.testng.extras.TestRunner -INFO - ExtentReports is initiated
+2021-06-06 00:35:57,505 - com.testng.extras.TestRunner -INFO - ATUTestRecorder is Stoped
+2021-06-06 00:50:04,172 - com.testng.extras.TestRunner -INFO - ExtentReports is initiated
+2021-06-06 00:50:04,294 - com.testng.extras.TestRunner -INFO - ATUTestRecorder is Started
+2021-06-06 00:50:12,649 - com.teastng.testUtil.Base -INFO - accessProperties function is executed
+2021-06-06 00:50:26,741 - com.testng.extras.TestRunner -INFO - ExtentReports is initiated
+2021-06-06 00:50:28,843 - com.testng.extras.TestRunner -INFO - ATUTestRecorder is Stoped
+2021-06-06 00:52:35,841 - com.testng.extras.TestRunner -INFO - ExtentReports is initiated
+2021-06-06 00:52:35,952 - com.testng.extras.TestRunner -INFO - ATUTestRecorder is Started
+2021-06-06 00:52:44,148 - com.teastng.testUtil.Base -INFO - accessProperties function is executed
+2021-06-06 00:52:49,957 - com.testng.extras.TestRunner -INFO - ExtentReports is initiated
+2021-06-06 00:52:52,004 - com.testng.extras.TestRunner -INFO - ATUTestRecorder is Stoped
+2021-06-06 00:54:12,715 - com.testng.extras.TestRunner -INFO - ExtentReports is initiated
+2021-06-06 00:54:12,819 - com.testng.extras.TestRunner -INFO - ATUTestRecorder is Started
+2021-06-06 00:54:21,190 - com.teastng.testUtil.Base -INFO - accessProperties function is executed
+2021-06-06 00:54:26,183 - com.testng.extras.TestRunner -INFO - ExtentReports is initiated
+2021-06-06 00:54:28,283 - com.testng.extras.TestRunner -INFO - ATUTestRecorder is Stoped
+2021-06-06 00:56:05,207 - com.testng.extras.TestRunner -INFO - ExtentReports is initiated
+2021-06-06 00:56:05,322 - com.testng.extras.TestRunner -INFO - ATUTestRecorder is Started
+2021-06-06 00:56:22,947 - com.teastng.testUtil.Base -INFO - accessProperties function is executed
+2021-06-06 00:56:30,407 - com.testng.extras.TestRunner -INFO - ExtentReports is initiated
+2021-06-06 00:56:32,517 - com.testng.extras.TestRunner -INFO - ATUTestRecorder is Stoped
+2021-06-06 00:58:05,006 - com.testng.extras.TestRunner -INFO - ExtentReports is initiated
+2021-06-06 00:58:05,126 - com.testng.extras.TestRunner -INFO - ATUTestRecorder is Started
+2021-06-06 00:58:13,265 - com.teastng.testUtil.Base -INFO - accessProperties function is executed
+2021-06-06 00:58:16,395 - com.teastng.testUtil.Base -INFO - openBrowser function is executed
+2021-06-06 00:58:26,056 - com.teastng.testUtil.Base -INFO - launchSite function is executed
+2021-06-06 00:58:26,300 - com.testng.pages.LoginPage -INFO - fillUserId function is executed
+2021-06-06 00:58:26,385 - com.testng.pages.LoginPage -INFO - fillPassword function is executed
+2021-06-06 00:58:27,287 - com.testng.pages.LoginPage -INFO - clicklogin function is executed
+2021-06-06 00:58:42,302 - com.testng.pages.LoginPage -INFO - validatelogin function is initiated
+2021-06-06 00:58:42,344 - com.testng.pages.LoginPage -INFO - validatelogin all_valid condition is executed
+2021-06-06 00:58:43,651 - com.testng.extras.TestRunner -INFO - Login Test is Passed
+2021-06-06 00:58:54,426 - com.testng.extras.TestRunner -INFO - ExtentReports is initiated
+2021-06-06 00:58:56,533 - com.testng.extras.TestRunner -INFO - ATUTestRecorder is Stoped
+2021-06-06 01:03:29,600 - com.testng.extras.TestRunner -INFO - ExtentReports is initiated
+2021-06-06 01:03:29,770 - com.testng.extras.TestRunner -INFO - ATUTestRecorder is Started
+2021-06-06 01:03:38,074 - com.teastng.testUtil.Base -INFO - accessProperties function is executed
+2021-06-06 01:03:41,416 - com.teastng.testUtil.Base -INFO - openBrowser function is executed
+2021-06-06 01:03:57,075 - com.teastng.testUtil.Base -INFO - launchSite function is executed
+2021-06-06 01:03:57,335 - com.testng.pages.LoginPage -INFO - fillUserId function is executed
+2021-06-06 01:03:57,451 - com.testng.pages.LoginPage -INFO - fillPassword function is executed
+2021-06-06 01:03:58,675 - com.testng.pages.LoginPage -INFO - clicklogin function is executed
+2021-06-06 01:04:13,695 - com.testng.pages.LoginPage -INFO - validatelogin function is initiated
+2021-06-06 01:04:13,772 - com.testng.pages.LoginPage -INFO - validatelogin all_valid condition is executed
+2021-06-06 01:04:15,179 - com.testng.extras.TestRunner -INFO - Login Test is Passed
+2021-06-06 01:04:25,254 - com.testng.extras.TestRunner -INFO - ExtentReports is initiated
+2021-06-06 01:04:27,346 - com.testng.extras.TestRunner -INFO - ATUTestRecorder is Stoped
+2021-06-06 01:05:15,366 - com.testng.extras.TestRunner -INFO - ExtentReports is initiated
+2021-06-06 01:05:15,478 - com.testng.extras.TestRunner -INFO - ATUTestRecorder is Started
+2021-06-06 01:05:24,205 - com.teastng.testUtil.Base -INFO - accessProperties function is executed
+2021-06-06 01:05:27,690 - com.teastng.testUtil.Base -INFO - openBrowser function is executed
+2021-06-06 01:05:28,377 - com.testng.extras.TestRunner -INFO - ExtentReports is initiated
+2021-06-06 01:05:30,437 - com.testng.extras.TestRunner -INFO - ATUTestRecorder is Stoped
+2021-06-06 01:09:54,246 - com.testng.extras.TestRunner -INFO - ExtentReports is initiated
+2021-06-06 01:09:54,365 - com.testng.extras.TestRunner -INFO - ATUTestRecorder is Started
+2021-06-06 01:10:03,447 - com.teastng.testUtil.Base -INFO - accessProperties function is executed
+2021-06-06 01:10:08,086 - com.teastng.testUtil.Base -INFO - openBrowser function is executed
+2021-06-06 01:10:08,367 - com.testng.extras.TestRunner -INFO - Login Test is Failed
+2021-06-06 01:10:09,164 - com.testng.extras.TestRunner -INFO - ExtentReports is initiated
+2021-06-06 01:10:11,233 - com.testng.extras.TestRunner -INFO - ATUTestRecorder is Stoped
+2021-06-06 12:01:23,879 - com.testng.extras.TestRunner -INFO - ExtentReports is initiated
+2021-06-06 12:01:23,980 - com.testng.extras.TestRunner -INFO - ATUTestRecorder is Started
+2021-06-06 12:01:30,707 - com.teastng.testUtil.Base -INFO - accessProperties function is executed
+2021-06-06 12:01:35,226 - com.teastng.testUtil.Base -INFO - openBrowser function is executed
+2021-06-06 12:01:35,594 - com.teastng.testUtil.Base -INFO - screenshot function is executed
+2021-06-06 12:01:35,599 - com.testng.extras.TestRunner -INFO - Login Test is Failed
+2021-06-06 12:01:35,931 - com.testng.extras.TestRunner -INFO - ExtentReports is initiated
+2021-06-06 12:01:37,987 - com.testng.extras.TestRunner -INFO - ATUTestRecorder is Stoped
